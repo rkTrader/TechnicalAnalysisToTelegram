@@ -8,6 +8,21 @@ Join Telegram Channel at https://t.me/TechnicalAnalysisToTelegram . You will sta
 
 Based on the charting patterns, you will start seeing outputs of our experimental and educational scanner. To start with, the scanner looks at Nifty50 stocks only. You can find the current list of scrips scanned everyday [here](https://github.com/ramkumarkr/TechnicalAnalysisToTelegram/blob/master/scrips_list.txt). If you have specific needs, please submit [this form](https://forms.gle/E5Eq42ZhrpfJ4SQu7). We will evaluate such requirements on a periodic basis and new scrips will be added based on number of requests for a given scrip.
 
+Sample [scanner code](https://github.com/ramkumarkr/TechnicalAnalysisToTelegram/blob/master/scanner.py) will give you an idea how broadly this works.
+
+Currently, the scanner looks for the following chart patterns
+- Hammer
+- Shooting Star
+- Inverted Hammer
+- Hanging Man
+- Engulfing Pattern (There is no differenciation of bullish/bearish. Use the charts to find it out yourself)
+- Dark Cloud
+- Piercing Pattern
+- Harami (Again, does not have bullish/bearish differenciation)
+- Evening Star
+- Morning Star
+- Marubozu
+
 For any generic questions or feedback, use the [issues section](https://github.com/ramkumarkr/TechnicalAnalysisToTelegram/issues).
 
 Thank You!
