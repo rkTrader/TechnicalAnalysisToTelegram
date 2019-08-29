@@ -23,6 +23,9 @@ Currently, the scanner looks for the following chart patterns
 - Morning Star
 - Marubozu
 
+Additionally, some experimental (and educational) intra-day signals are being evaluated. For example Open = High and Open = Low . These signals are evaluated at 9:46am on days when market is open.
+Additional signals such as opening range breakout and breakdown with 1 hour initial range period is in the plan
+
 For any generic questions or feedback, use the [issues section](https://github.com/ramkumarkr/TechnicalAnalysisToTelegram/issues).
 
 Thank You!
