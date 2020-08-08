@@ -12,18 +12,18 @@ Join Telegram Channel at https://t.me/TechnicalAnalysisToTelegram . You will sta
 
 ~~Sample [scanner code] will give you an idea how broadly this works.~~
 
-~~Currently, the scanner looks for the following chart patterns
+Currently, the scanner looks for the following chart patterns
 - Hammer
-~~- Shooting Star
+- Shooting Star
 - Inverted Hammer
-~~- Hanging Man
+- Hanging Man
 - Engulfing Pattern (There is no differenciation of bullish/bearish. Use the charts to find it out yourself)
-~~- Dark Cloud
+- Dark Cloud
 - Piercing Pattern
-~~- Harami (Again, does not have bullish/bearish differenciation)
+- Harami (Again, does not have bullish/bearish differenciation)
 - Evening Star
-~~- Morning Star
-- Marubozu~~
+- Morning Star
+- Marubozu
 
 ~~Additionally, some experimental (and educational) intra-day signals are being evaluated. For example Open = High and Open = Low . These signals are evaluated at 9:46am on days when market is open.
 Additional signals such as opening range breakout and breakdown with 1 hour initial range period is in the plan~~
