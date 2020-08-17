@@ -2,7 +2,9 @@
 
 **Update: 8th Aug,2020 - No more pattern screeners will be run on this channel. Also no more ope=high/open=low scanners**
 
-**Disclaimer** : The analysis outputs are provided purely for educational purpose. The system by itself does not provide any buy or sell signals. Any trading decisions you take based on these signals are purely your own responsibility. We do not take responsibility of your trades or the profits or loss from it.
+I started this channel to update pattern identifications on a selected set of NSE stocks. Since I don't see much of use, have stopped it and current using this channel to post Technical Analysis what I observe, primarily on Nifty Bank and some of my trade logic. This serves me as 1) document my decision to serve as a trade log and 2) In case if it helps any of you.
+
+**Disclaimer** : The analysis outputs are provided purely for educational purpose. Any trading decisions you take based on these signals are purely your own responsibility. We do not take responsibility of your trades or the profits or loss from it.
 
 **How to Use**
 
@@ -12,7 +14,7 @@ Join Telegram Channel at https://t.me/TechnicalAnalysisToTelegram . You will sta
 
 ~~Sample [scanner code] will give you an idea how broadly this works.~~
 
-Currently, the scanner looks for the following chart patterns
+No longer these patterns are scanned and updated.
 - Hammer
 - Shooting Star
 - Inverted Hammer
